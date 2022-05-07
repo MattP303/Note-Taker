@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test Text"
-    }
-]
+[{"title":"Test Title","text":"Test Text"},{"title":"Test","text":"Test text\n","id":"1"},{"title":"Test note","text":"Blah Blah","id":"2"},{"title":"Test note title","text":"test text","id":"3"},{"title":"Test pwa","text":"New test pwa","id":"4"},{"title":"WORK ALREADY","text":"Screw apis","id":"5"},{"id":"6"}]

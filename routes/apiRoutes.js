@@ -38,7 +38,7 @@ module.exports = function(app) {
 
         let noteId = req.params.id;
         let newId = 0;
-        console.log(`Deleting note with id ${noteId}`);
+        console.log(`Deleted: ${noteId}`);
         data = data.filter(currentNote => {
            return currentNote.id != noteId;
         });
